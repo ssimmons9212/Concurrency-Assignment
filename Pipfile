@@ -12,6 +12,7 @@ seaborn = "*"
 scikitlearn = "*"
 sklearn = "*"
 scikit-learn = "*"
+ipython-sql = "*"
 
 [requires]
 python_version = "3.7"
